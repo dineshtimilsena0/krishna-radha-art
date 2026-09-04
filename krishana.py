@@ -147,7 +147,7 @@ v.end_fill()
 #Radha
 
 b=turtle.Turtle()
-#b.color('red')
+#b.color('orange')
 b.up()
 b.speed(0)
 b.seth(0)
@@ -245,7 +245,7 @@ b.pensize(7)
 b.circle(2)
 
 
-b.color('black')
+b.color('lightblack')
 b.pensize(4)
 b.up()
 b.seth(-94)
